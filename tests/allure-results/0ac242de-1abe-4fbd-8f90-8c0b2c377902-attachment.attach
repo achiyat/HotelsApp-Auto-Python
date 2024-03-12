@@ -1,0 +1,1 @@
+This test retrieves a hotel by its ID and verifies the response status code.

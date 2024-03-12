@@ -1,0 +1,9 @@
+{
+    "RequestMethod": "DELETE",
+    "RequestURL": "http://localhost:8090/example/v1/hotels//12",
+    "headers": null,
+    "q_params": {
+        "id": 12
+    },
+    "payload": null
+}

@@ -1,0 +1,9 @@
+{
+    "RequestMethod": "GET",
+    "RequestURL": "http://localhost:8090/example/v1/hotels//1",
+    "headers": null,
+    "q_params": {
+        "id": 1
+    },
+    "payload": null
+}

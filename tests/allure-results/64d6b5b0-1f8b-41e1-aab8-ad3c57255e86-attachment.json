@@ -1,0 +1,15 @@
+{
+    "RequestMethod": "PUT",
+    "RequestURL": "http://localhost:8090/example/v1/hotels//8",
+    "headers": null,
+    "q_params": {
+        "id": 8
+    },
+    "payload": {
+        "id": 8,
+        "name": "Jeffrey Parker",
+        "description": "Him food future church west above.\nTraditional consumer research return tell fund couple. Couple step officer street PM but picture.",
+        "city": "West Autumn",
+        "rating": 1
+    }
+}

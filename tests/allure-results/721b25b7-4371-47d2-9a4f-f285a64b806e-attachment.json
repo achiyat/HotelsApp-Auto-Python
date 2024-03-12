@@ -1,0 +1,16 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels//9",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Content-Type": "application/json;charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Date": "Tue, 12 Mar 2024 03:50:52 GMT"
+    },
+    "Response": {
+        "id": 9,
+        "name": "Ricky Hernandez",
+        "description": "Past four weight hair cost. Buy difficult own million full buy future.\nSend discover arrive tonight population. Girl actually teach hotel. Line sport government cost concern way forget.",
+        "city": "North Dianafurt",
+        "rating": 4
+    }
+}

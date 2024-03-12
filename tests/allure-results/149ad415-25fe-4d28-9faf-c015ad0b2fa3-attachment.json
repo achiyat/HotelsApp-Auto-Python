@@ -1,0 +1,13 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/?city=Douglasstad&description=Watch+yet+support+one.+Forget+describe+note+development+his+no.+Fact+song+option+necessary+none+might+speak.%0AIts+type+free+side.+Industry+along+case+attention+deal.&name=Lisa+Perkins&rating=5",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Location": "http://localhost:8090/example/v1/hotels//2",
+        "Content-Length": "0",
+        "Date": "Tue, 12 Mar 2024 03:49:58 GMT"
+    },
+    "Response": {
+        "Ok": true,
+        "Status code": 201
+    }
+}

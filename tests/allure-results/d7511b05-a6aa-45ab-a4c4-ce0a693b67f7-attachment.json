@@ -1,0 +1,13 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/?city=Los+Angeles&description=A+modern+hotel+with+stunning+views+of+the+city+skyline.&name=Sunset+Inn&rating=8",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Location": "http://localhost:8090/example/v1/hotels//4",
+        "Content-Length": "0",
+        "Date": "Tue, 12 Mar 2024 03:50:09 GMT"
+    },
+    "Response": {
+        "Ok": true,
+        "Status code": 201
+    }
+}

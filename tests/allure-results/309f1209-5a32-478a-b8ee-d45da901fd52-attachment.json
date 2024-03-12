@@ -1,0 +1,19 @@
+{
+    "RequestMethod": "POST",
+    "RequestURL": "http://localhost:8090/example/v1/hotels/",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "q_params": {
+        "city": "Tokyo",
+        "description": "A high-tech hotel in the bustling streets of Tokyo.",
+        "name": "Skyline Hotel",
+        "rating": 4
+    },
+    "payload": {
+        "city": "Tokyo",
+        "description": "A high-tech hotel in the bustling streets of Tokyo.",
+        "name": "Skyline Hotel",
+        "rating": 4
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "RequestMethod": "PUT",
+    "RequestURL": "http://localhost:8090/example/v1/hotels//7",
+    "headers": null,
+    "q_params": {
+        "id": 7
+    },
+    "payload": {
+        "city": "Paris",
+        "description": "A charming hotel in the romantic city of Paris.",
+        "name": "Eiffel Tower Hotel",
+        "rating": 10,
+        "id": 7
+    }
+}

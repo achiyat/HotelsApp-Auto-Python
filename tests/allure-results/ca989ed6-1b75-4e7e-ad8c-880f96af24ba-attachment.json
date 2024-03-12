@@ -1,0 +1,13 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/?city=Rodneyshire&description=Case+person+card+democratic+role.+Claim+research+organization+senior.+Side+situation+off+gas+line+increase+success.%0ADecade+animal+group+need+nation+turn+mention.+Dark+because+doctor+star.&name=Kristina+Smith&rating=4",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Location": "http://localhost:8090/example/v1/hotels//5",
+        "Content-Length": "0",
+        "Date": "Tue, 12 Mar 2024 03:50:15 GMT"
+    },
+    "Response": {
+        "Ok": true,
+        "Status code": 201
+    }
+}

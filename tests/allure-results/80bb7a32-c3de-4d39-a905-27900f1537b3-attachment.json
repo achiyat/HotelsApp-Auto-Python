@@ -1,0 +1,19 @@
+{
+    "RequestMethod": "POST",
+    "RequestURL": "http://localhost:8090/example/v1/hotels/",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "q_params": {
+        "city": "Los Angeles",
+        "description": "A modern hotel with stunning views of the city skyline.",
+        "name": "Sunset Inn",
+        "rating": 8
+    },
+    "payload": {
+        "city": "Los Angeles",
+        "description": "A modern hotel with stunning views of the city skyline.",
+        "name": "Sunset Inn",
+        "rating": 8
+    }
+}

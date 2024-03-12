@@ -1,0 +1,13 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/?city=Dubai&description=An+extravagant+hotel+overlooking+the+stunning+Dubai+skyline.&name=Desert+Oasis+Resort&rating=9",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Location": "http://localhost:8090/example/v1/hotels//7",
+        "Content-Length": "0",
+        "Date": "Tue, 12 Mar 2024 03:50:31 GMT"
+    },
+    "Response": {
+        "Ok": true,
+        "Status code": 201
+    }
+}

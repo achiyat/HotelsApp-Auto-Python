@@ -1,0 +1,11 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels//7?id=7",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Date": "Tue, 12 Mar 2024 03:50:31 GMT"
+    },
+    "Response": {
+        "Ok": true,
+        "Status code": 204
+    }
+}

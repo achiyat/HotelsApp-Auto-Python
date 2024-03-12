@@ -1,0 +1,20 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Content-Type": "application/json;charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Date": "Tue, 12 Mar 2024 03:51:30 GMT"
+    },
+    "Response": {
+        "content": [],
+        "totalPages": 0,
+        "totalElements": 0,
+        "last": true,
+        "size": 100,
+        "number": 0,
+        "sort": null,
+        "first": true,
+        "numberOfElements": 0
+    }
+}

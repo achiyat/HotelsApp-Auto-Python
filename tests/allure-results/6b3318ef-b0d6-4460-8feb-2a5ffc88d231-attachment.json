@@ -1,0 +1,13 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/?city=Tokyo&description=A+high-tech+hotel+in+the+bustling+streets+of+Tokyo.&name=Skyline+Hotel&rating=4",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Location": "http://localhost:8090/example/v1/hotels//1",
+        "Content-Length": "0",
+        "Date": "Tue, 12 Mar 2024 03:49:49 GMT"
+    },
+    "Response": {
+        "Ok": true,
+        "Status code": 201
+    }
+}

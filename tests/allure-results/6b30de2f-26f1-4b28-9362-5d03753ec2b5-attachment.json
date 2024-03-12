@@ -1,0 +1,16 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels//12",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Content-Type": "application/json;charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Date": "Tue, 12 Mar 2024 03:51:22 GMT"
+    },
+    "Response": {
+        "id": 12,
+        "name": "Benjamin Jackson",
+        "description": "Check stock treatment single exactly. Data probably a without. Contain see candidate subject.\nUs body significant everything rich bar coach. Investment pressure sense race state look.",
+        "city": "Shawnbury",
+        "rating": 5
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "RequestMethod": "POST",
+    "RequestURL": "http://localhost:8090/example/v1/hotels/",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "q_params": {
+        "city": "Rodneyshire",
+        "description": "Case person card democratic role. Claim research organization senior. Side situation off gas line increase success.\nDecade animal group need nation turn mention. Dark because doctor star.",
+        "name": "Kristina Smith",
+        "rating": 4
+    },
+    "payload": {
+        "city": "Rodneyshire",
+        "description": "Case person card democratic role. Claim research organization senior. Side situation off gas line increase success.\nDecade animal group need nation turn mention. Dark because doctor star.",
+        "name": "Kristina Smith",
+        "rating": 4
+    }
+}

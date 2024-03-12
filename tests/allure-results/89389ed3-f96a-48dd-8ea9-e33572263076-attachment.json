@@ -1,0 +1,19 @@
+{
+    "RequestMethod": "POST",
+    "RequestURL": "http://localhost:8090/example/v1/hotels/",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "q_params": {
+        "city": "New York",
+        "description": "A luxurious hotel located in the heart of Manhattan.",
+        "name": "Grand Hotel",
+        "rating": 9
+    },
+    "payload": {
+        "city": "New York",
+        "description": "A luxurious hotel located in the heart of Manhattan.",
+        "name": "Grand Hotel",
+        "rating": 9
+    }
+}

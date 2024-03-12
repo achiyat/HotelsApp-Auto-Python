@@ -1,0 +1,16 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels//1",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Content-Type": "application/json;charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Date": "Tue, 12 Mar 2024 03:51:06 GMT"
+    },
+    "Response": {
+        "id": 1,
+        "name": "Skyline Hotel",
+        "description": "A high-tech hotel in the bustling streets of Tokyo.",
+        "city": "Tokyo",
+        "rating": 2
+    }
+}

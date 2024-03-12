@@ -1,0 +1,19 @@
+{
+    "RequestMethod": "POST",
+    "RequestURL": "http://localhost:8090/example/v1/hotels/",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "q_params": {
+        "city": "Douglasstad",
+        "description": "Watch yet support one. Forget describe note development his no. Fact song option necessary none might speak.\nIts type free side. Industry along case attention deal.",
+        "name": "Lisa Perkins",
+        "rating": 5
+    },
+    "payload": {
+        "city": "Douglasstad",
+        "description": "Watch yet support one. Forget describe note development his no. Fact song option necessary none might speak.\nIts type free side. Industry along case attention deal.",
+        "name": "Lisa Perkins",
+        "rating": 5
+    }
+}

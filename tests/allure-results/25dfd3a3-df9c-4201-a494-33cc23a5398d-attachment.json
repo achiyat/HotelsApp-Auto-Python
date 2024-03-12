@@ -1,0 +1,8 @@
+{
+    "assert": {
+        "Actual": "1",
+        "Expected": "1",
+        "Assert": true,
+        "result": "1 == 1"
+    }
+}

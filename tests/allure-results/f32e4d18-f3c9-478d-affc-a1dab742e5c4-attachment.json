@@ -1,0 +1,13 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/?city=New+York&description=A+luxurious+hotel+located+in+the+heart+of+Manhattan.&name=Grand+Hotel&rating=9",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Location": "http://localhost:8090/example/v1/hotels//3",
+        "Content-Length": "0",
+        "Date": "Tue, 12 Mar 2024 03:50:09 GMT"
+    },
+    "Response": {
+        "Ok": true,
+        "Status code": 201
+    }
+}

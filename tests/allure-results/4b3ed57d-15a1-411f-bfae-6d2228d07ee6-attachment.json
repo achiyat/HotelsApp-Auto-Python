@@ -1,0 +1,84 @@
+{
+    "URL": "http://localhost:8090/example/v1/hotels/",
+    "Headers": {
+        "X-Application-Context": "application:8090",
+        "Content-Type": "application/json;charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Date": "Tue, 12 Mar 2024 03:50:52 GMT"
+    },
+    "Response": {
+        "content": [
+            {
+                "id": 1,
+                "name": "Skyline Hotel",
+                "description": "A high-tech hotel in the bustling streets of Tokyo.",
+                "city": "Tokyo",
+                "rating": 2
+            },
+            {
+                "id": 2,
+                "name": "Lisa Perkins",
+                "description": "Watch yet support one. Forget describe note development his no. Fact song option necessary none might speak.\nIts type free side. Industry along case attention deal.",
+                "city": "Douglasstad",
+                "rating": 5
+            },
+            {
+                "id": 3,
+                "name": "Grand Hotel",
+                "description": "A luxurious hotel located in the heart of Manhattan.",
+                "city": "New York",
+                "rating": 9
+            },
+            {
+                "id": 4,
+                "name": "Sunset Inn",
+                "description": "A modern hotel with stunning views of the city skyline.",
+                "city": "Los Angeles",
+                "rating": 8
+            },
+            {
+                "id": 5,
+                "name": "Kristina Smith",
+                "description": "Case person card democratic role. Claim research organization senior. Side situation off gas line increase success.\nDecade animal group need nation turn mention. Dark because doctor star.",
+                "city": "Rodneyshire",
+                "rating": 4
+            },
+            {
+                "id": 6,
+                "name": "Paul Mclean Jr.",
+                "description": "Store music debate move hotel up later until. Mind capital head get major policy. Character fact least last research.\nSystem young stuff reach. Southern leg effort person level degree institution.",
+                "city": "South Autumnview",
+                "rating": 4
+            },
+            {
+                "id": 7,
+                "name": "Eiffel Tower Hotel",
+                "description": "A charming hotel in the romantic city of Paris.",
+                "city": "Paris",
+                "rating": 10
+            },
+            {
+                "id": 8,
+                "name": "Jeffrey Parker",
+                "description": "Him food future church west above.\nTraditional consumer research return tell fund couple. Couple step officer street PM but picture.",
+                "city": "West Autumn",
+                "rating": 1
+            },
+            {
+                "id": 9,
+                "name": "Ricky Hernandez",
+                "description": "Past four weight hair cost. Buy difficult own million full buy future.\nSend discover arrive tonight population. Girl actually teach hotel. Line sport government cost concern way forget.",
+                "city": "North Dianafurt",
+                "rating": 4
+            }
+        ],
+        "totalPages": 1,
+        "totalElements": 9,
+        "last": true,
+        "size": 100,
+        "number": 0,
+        "sort": null,
+        "first": true,
+        "numberOfElements": 9
+    }
+}
