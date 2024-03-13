@@ -76,14 +76,3 @@ class AllureAttachments:
         }
         response_data = json.dumps(assert_data, indent=4).encode('utf-8')
         allure.attach(response_data, name=filename, attachment_type=data_type)
-
-    # @staticmethod
-    # def get_inequality_symbols(actual: str, expected: str) -> str:
-    #     if actual == expected:
-    #         return f"{actual} == {expected}"
-    #     elif actual != expected:
-    #         return f"{actual} != {expected}"
-    #     elif actual > expected:
-    #         return f"{actual} > {expected}"
-    #     elif actual < expected:
-    #         return f"{actual} < {expected}"

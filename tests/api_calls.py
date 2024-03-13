@@ -44,13 +44,3 @@ class ApiRequests:
     def put(url: str, data=None, params=None) -> Response:
         AllureAttachments.attach_request(url, request_method="PUT", payload=data, q_params=params)
         return requests.put(url, params=params, json=data)
-
-    # @staticmethod
-    # def get(url: str, _id) -> Response:
-    #     AllureAttachments.attach_request(url, request_method="GET")
-    #     response = requests.get(f"{url}/{_id}", params={"id": _id})
-    #     request_params = response.request.params
-    #     print("Request Parameters:", request_params)
-    #     print("ID Parameter:", request_params["id"])
-    #     AllureAttachments.attach_response(response)
-    #     return response

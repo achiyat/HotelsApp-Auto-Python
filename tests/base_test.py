@@ -61,11 +61,11 @@ class BaseTest:
             requests.delete(f"{BASE_URL}/{hotel_id}")
 
     @staticmethod
-    def get_value_from_list(_list: list, inx) -> any:
+    def get_value_from_list(_list: list, inx: int) -> any:
         return _list[inx]
 
     @staticmethod
-    def get_value_from_dict(dictionary, key) -> any:
+    def get_value_from_dict(dictionary: dict, key: str | int) -> any:
         return dictionary.get(key)
 
     @staticmethod
@@ -87,10 +87,7 @@ class BaseTest:
         AllureAttachments.attach_result(result, filename)
 
     @staticmethod
-    def create_dict_result(name: str, actual: str, expected: str, inequality_symbol: Type[Symbols]):
-        a = inequality_symbol
-        b = actual == expected
-
+    def create_dict_result(name: str, actual: str, expected: str, inequality_symbol: Type[Symbols]) -> dict:
         match inequality_symbol:
             case Symbols.EQUAL_TO:
                 result = actual == expected
